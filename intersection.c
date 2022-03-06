@@ -1,3 +1,5 @@
+
+
 //task 3 #4 problem
 
 #include <stdio.h>
@@ -90,4 +92,5 @@ int main (){
         printf ("Theese sections are not crossing!\n");
     return 0;
 }
+
 
